@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Template](https://img.shields.io/badge/GitHub-Template-brightgreen)](https://github.com/hackerstoreofficial/pro-website-template/generate)
 
-A professional, fully responsive, multi-page website template. This project is designed to be a "ready-to-go" starter kit for restaurants, cafes, or personal portfolios. 
+A professional, fully responsive, multi-page website template. This project is designed to be a "ready-to-go" starter kit for restaurants, cafes, or personal portfolios.
 
 ## 🌐 Live Demo
 
