@@ -36,13 +36,14 @@ git clone https://github.com/hackerstoreofficial/pro-website-template.git
 
 ## 📂 Project Structure
 
-├── pic/               # Image assets and Favicons
-├── about.html         # About Page
-├── contact.html       # Contact Page
-├── index.html         # Main Landing Page (Home)
-├── news.html          # Blog / Updates Page
-├── script.js          # Interactive Logic
-└── style.css          # Main Stylesheet
+- `index.html` - Home page
+- `about.html` - About section
+- `news.html` - Blog/Update section
+- `contact.html` - Contact page
+- `style.css` - Custom styling
+- `script.js` - Interactive logic
+- `/pic` - Image assets
+- `LICENCE` - License
 
 ## ⚙️ Customization Tips
 
