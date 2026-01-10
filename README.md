@@ -3,6 +3,7 @@
 A high-quality, fully responsive, and easy-to-customize website template designed for modern web projects. Whether you are building a restaurant site, a personal portfolio, or a business landing page, this starter kit provides a clean foundation.
 
 ## ✨ Features
+
 - **Fully Responsive:** Works perfectly on Mobile, Tablet, and Desktop.
 - **Clean Code:** Well-organized HTML5 and CSS3 structure.
 - **Interactive Elements:** JavaScript-powered features for a dynamic user experience.
