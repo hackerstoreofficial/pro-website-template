@@ -28,7 +28,7 @@ A high-quality, fully responsive, and easy-to-customize website template designe
 - `style.css` - Custom styling
 - `script.js` - Interactive logic
 - `/pic` - Image assets
-- 'LICENCE' - License
+- `LICENCE` - License
 
 ## 🎓 Perfect for Projects
 
