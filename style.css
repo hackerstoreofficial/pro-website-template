@@ -9,7 +9,7 @@
 }
 :root{
 	--text-color: #302e29;
-	--main-color: #ff9100;
+	--main-color: #149414;
 	--second-color: #858585;
 	--bg-color: #fffbf6;
 	--big-font: 4.5rem;
@@ -174,11 +174,17 @@ header.sticky{
 }
 .about-text h2{
 	font-size: var(--h2-font);
+	margin-bottom: 0rem;
+	line-height: 1.3;
+}
+.about-text h3{
+	font-size: var(--h2.5-font);
 	margin-bottom: 2rem;
 	line-height: 1.3;
 }
 .about-text p{
 	font-size: var(--p-font);
+	list-style-type: circle;
 	color: var(--second-color);
 	font-weight: 500;
 	line-height: 32px;
