@@ -31,7 +31,7 @@ Since this is a **Template Repository**, you don't need to fork it!
 ### Option 2: Clone Locally
 
 ```bash
-git clone [https://github.com/hackerstoreofficial/pro-website-template.git](https://github.com/hackerstoreofficial/pro-website-template.git)
+git clone https://github.com/hackerstoreofficial/pro-website-template.git
 ```
 
 ## 📂 Project Structure
