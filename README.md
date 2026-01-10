@@ -11,6 +11,7 @@ A high-quality, fully responsive, and easy-to-customize website template designe
 - **Lightweight:** No heavy frameworks—just pure, fast-loading code.
 
 ## 🛠️ How to Use
+
 1. **Clone the project:** `git clone https://github.com/hackerstoreofficial/pro-website-template.git`
 2. **Open the folder:** Open the project in VS Code or any text editor.
 3. **Customize:** - Update `index.html` with your content.
@@ -19,6 +20,7 @@ A high-quality, fully responsive, and easy-to-customize website template designe
 4. **Go Live:** Open `index.html` in your browser to see your changes!
 
 ## 📂 Project Structure
+
 - `index.html` - Home page
 - `about.html` - About section
 - `news.html` - Blog/Update section
@@ -28,6 +30,7 @@ A high-quality, fully responsive, and easy-to-customize website template designe
 - `/pic` - Image assets
 
 ## 🎓 Perfect for Projects
+
 This template is ideal for students working on **Web Technology Projects** or developers looking for a quick landing page starter.
 
 ---
