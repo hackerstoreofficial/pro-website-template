@@ -45,6 +45,10 @@ git clone https://github.com/hackerstoreofficial/pro-website-template.git
 - `/pic` - Image assets
 - `LICENCE` - License
 
+## 🎓 Perfect for Projects
+
+This template is ideal for students working on **Web Technology Projects** or developers looking for a quick landing page starter.
+
 ## ⚙️ Customization Tips
 
 Logo/Favicon: Replace pic/favicon.png with your own image.
