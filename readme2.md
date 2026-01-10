@@ -59,4 +59,4 @@ MIT License
 This project is licensed under the MIT License - meaning you are free to use, modify, and distribute it for personal or commercial use.
 
 ---
-*Created with ❤️ by [hackerstoreofficial](https://github.com/hackerstoreofficial)*
+*Developed with ❤️ by [hackerstoreofficial](https://github.com/hackerstoreofficial)*
